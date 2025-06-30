@@ -1,0 +1,5 @@
+Flask
+flask-cors
+google-cloud-speech
+groq
+pyttsx3
