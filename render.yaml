@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: chatbot-devpost
+    env: python
+    buildCommand: ""
+    startCommand: gunicorn app:app
